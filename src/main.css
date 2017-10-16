@@ -1,0 +1,15 @@
+body {
+  font-family: "Open sans", Garamond, sans-serif;
+}
+.header {
+  padding-left: 5px;
+}
+.tagline {
+  padding-left: 10px;
+}
+.skills {
+  padding-left: 15px;
+}
+.contact {
+  padding-left: 20px;
+}
